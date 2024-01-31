@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781799963038",
+    "project_id": "bionic-test-d2442",
+    "storage_bucket": "bionic-test-d2442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781799963038:android:a3469e418bff2a888cfe8f",
+        "android_client_info": {
+          "package_name": "com.app.zuludin.bionic_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781799963038-d95qk74lpd199djuhujip8skcasql1fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.zuludin.bionic_test",
+            "certificate_hash": "2ae4488c1eaefdda1429d389f5ac092f191a52cd"
+          }
+        },
+        {
+          "client_id": "781799963038-tdt93t0gg5ilstao2n62h16efk37q2p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcJNnb62wzNvtFNpnJndUXN8rjWOlaj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781799963038-tdt93t0gg5ilstao2n62h16efk37q2p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

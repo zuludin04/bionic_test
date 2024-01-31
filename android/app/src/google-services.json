@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781799963038",
+    "project_id": "bionic-test-d2442",
+    "storage_bucket": "bionic-test-d2442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781799963038:android:a3469e418bff2a888cfe8f",
+        "android_client_info": {
+          "package_name": "com.app.zuludin.bionic_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcJNnb62wzNvtFNpnJndUXN8rjWOlaj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
