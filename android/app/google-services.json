@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "781799963038-1jpbrbse09m4bl9f2dkct46n41ugqi5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.zuludin.bionic_test",
+            "certificate_hash": "f441035a5a3ec16a9d60439ff54e03118e336922"
+          }
+        },
+        {
           "client_id": "781799963038-d95qk74lpd199djuhujip8skcasql1fh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
